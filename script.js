@@ -1,5 +1,5 @@
 const API_KEY = '9225e2cd'; // <-- REPLACE with your key
-const BASE_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=9225e2cd'; // OMDb base URL. :contentReference[oaicite:5]{index=5}
+const BASE_URL = 'https://www.omdbapi.com/';// OMDb base URL. :contentReference[oaicite:5]{index=5}
 
 /* DOM */
 const qInput = document.getElementById('query');
